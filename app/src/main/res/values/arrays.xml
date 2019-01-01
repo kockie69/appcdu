@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<resources>
+    <string-array name="CDU">
+        <item name="1">Left</item>
+        <item name="7">Center</item>
+        <item name="3">Right</item>
+    </string-array>
+    <string-array name="CDUValues">
+        <item name="1">"L"</item>
+        <item name="7">"C"</item>
+        <item name="30">"R"</item>
+    </string-array>
+
+</resources>

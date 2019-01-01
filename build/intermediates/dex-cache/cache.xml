@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_8cb82e77ec8f6931464a30ce1221fbf83ac6d8ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_c442fbb6b87255ed53e498dc40ff99c9587ce4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_bcc6102fa88d819d36200c56726b298165a16d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="dad5a0a9ce4762d9a866654731971b94245bc725">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6366e9f71caa5062b5db8c8ad5384321af3cc6eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="f27bc98079ff6686e555005c885e97fe925f0a25">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\instant-run_6319bf5ab1a94acbde2fc20c58333355d8671bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="6a9d0b52494ee984eb9ac4d7caf2ff14c0b6411d">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-22.1.0_acc5f1f062f03f4f4635782bf607ebff8b94fad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_f1947e3e044aeb63532d4f53f8eb70c2342893b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_fda19bda8490d5b7bb20a8fb2a1a45d1b069f018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\kockr\AndroidstudioProjects\appcdu\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_9fc62b7ad0518f8433d67498b75e2dbfbf4461ea.jar" />
+    </item>
+
+</items>

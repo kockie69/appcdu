@@ -1,0 +1,123 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="PSX Remote settings">
+
+        <EditTextPreference
+            android:key="host_preference"
+            android:title="Host"
+            android:summary="The host address of the PSX server to connect to."
+            android:dialogTitle="Host settings" />
+
+        <EditTextPreference
+            android:key="port_preference"
+            android:title="Port"
+            android:summary="The port on the PSX server."
+            android:dialogTitle="Port settings" />
+
+        <ListPreference
+            android:title="CDU Device (L,C,R)"
+            android:key="cdu_preference"
+            android:summary="Which of the CDUs do you want (L,C,R)."
+            android:dialogTitle="CDU position (L,C,R)"
+            android:entryValues="@array/CDUValues"
+            android:entries="@array/CDU">
+        </ListPreference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Text Area settings">
+
+        <EditTextPreference
+            android:key="TopMargin_preference"
+            android:title="TopMargin"
+            android:summary="The margin in dp from top to first line in text area."
+            android:dialogTitle="Top margin in dp" />
+
+        <EditTextPreference
+            android:key="LeftMargin_preference"
+            android:title="LeftMargin"
+            android:summary="The margin in dp from left to first character in text area."
+            android:dialogTitle="Left margin in dp" />
+
+        <EditTextPreference
+            android:key="FontSize_preference"
+            android:title="FontSize"
+            android:summary="The font size in dp in the text area."
+            android:dialogTitle="Font Size in dp" />
+
+        <EditTextPreference
+            android:key="LineMargin_preference"
+            android:title="LineMargin"
+            android:summary="The line margin in dp in the text area."
+            android:dialogTitle="Line margin in dp" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Lights settings">
+
+        <EditTextPreference
+            android:key="MsgMarginTop_preference"
+            android:title="MarginTop Message light"
+            android:summary="The margintop in dp for the message light."
+            android:dialogTitle="MarginTop Message light" />
+
+        <EditTextPreference
+            android:key="MsgMarginLeft_preference"
+            android:title="MarginLeft Message light"
+            android:summary="The marginleft in dp for the message light."
+            android:dialogTitle="MarginLeft Message light" />
+
+    <EditTextPreference
+        android:key="ExecMarginTop_preference"
+        android:title="MarginTop Exec light"
+        android:summary="The margintop in dp for the exec light."
+        android:dialogTitle="MarginTop Exec light" />
+
+    <EditTextPreference
+        android:key="ExecMarginLeft_preference"
+        android:title="MarginLeft Exec light"
+        android:summary="The marginleft in dp for the exec light."
+        android:dialogTitle="MarginLeft Exec light" />
+
+        <EditTextPreference
+            android:key="DspyMarginTop_preference"
+            android:title="MarginTop Dspy light"
+            android:summary="The margintop in dp for the dspy light."
+            android:dialogTitle="MarginTop Dspy light" />
+
+        <EditTextPreference
+            android:key="DspyMarginLeft_preference"
+            android:title="MarginLeft Dspy light"
+            android:summary="The marginleft in dp for the dspy light."
+            android:dialogTitle="MarginLeft Dspy light" />
+
+        <EditTextPreference
+            android:key="FailMarginTop_preference"
+            android:title="MarginTop Fail light"
+            android:summary="The margintop in dp for the fail light."
+            android:dialogTitle="MarginTop Fail light" />
+
+        <EditTextPreference
+            android:key="FailMarginLeft_preference"
+            android:title="MarginLeft Fail light"
+            android:summary="The marginleft in dp for the fail light."
+            android:dialogTitle="MarginLeft Fail light" />
+
+        <EditTextPreference
+            android:key="OfstMarginTop_preference"
+            android:title="MarginTop Ofst light"
+            android:summary="The margintop in dp for the ofst light."
+            android:dialogTitle="MarginTop Ofst light" />
+
+        <EditTextPreference
+            android:key="OfstMarginLeft_preference"
+            android:title="MarginLeft Ofst light"
+            android:summary="The marginleft in dp for the ofst light."
+            android:dialogTitle="MarginLeft Ofst light" />
+
+</PreferenceCategory>
+
+</PreferenceScreen>
